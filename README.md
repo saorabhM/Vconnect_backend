@@ -1,2 +1,2 @@
-# weconnect_backend
-weconnect backend app repo
+# Vconnect_backend
+Vconnect backend app repo
